@@ -1,0 +1,6 @@
+﻿ReadVideo.obj : error LNK2005: "int __cdecl DetectRed(void)" (?DetectRed@@YAHXZ) already defined in FirstFile.obj
+ReadVideo.obj : error LNK2005: "int __cdecl DetectRedShape(void)" (?DetectRedShape@@YAHXZ) already defined in FirstFile.obj
+ReadVideo.obj : error LNK2005: "int __cdecl OpenCamera(void)" (?OpenCamera@@YAHXZ) already defined in FirstFile.obj
+ReadVideo.obj : error LNK2005: "int __cdecl ReadImage(void)" (?ReadImage@@YAHXZ) already defined in FirstFile.obj
+ReadVideo.obj : error LNK2005: "int __cdecl ReadVideo(void)" (?ReadVideo@@YAHXZ) already defined in FirstFile.obj
+C:\Users\myckl\source\repos\OpenCV_Project\x64\Debug\OpenCV_Project.exe : fatal error LNK1169: one or more multiply defined symbols found
